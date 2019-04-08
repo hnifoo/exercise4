@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    position: relative;
+}
+
+div.thumbnail{
+    background-color: #302e2e;
+}
+
+div.caption h3{
+    color: white;
+}
+section#contact label, h4{
+    color: black;
+}
